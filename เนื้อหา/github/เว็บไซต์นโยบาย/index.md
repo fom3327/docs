@@ -4,7 +4,7 @@ redirect_from:
   - /categories/61/articles/
   - /categories/site-policy
 versions:
-  fpt: '*'
+  fpt:
 topics:
   - Policy
   - Legal
